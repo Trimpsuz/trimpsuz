@@ -3,7 +3,7 @@
 <br />
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=trimpsuz&theme=juicyfresh" /></a>
+<img src="https://github-profile-trophy.vercel.app/?username=trimpsuz&theme=juicyfresh&margin-w=15&margin-h=15&column=7" /></a>
 </p>
 
 <br />
