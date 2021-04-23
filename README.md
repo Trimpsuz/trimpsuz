@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trimpsuz&count_private=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=trimpsuz&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **Trimpsuz/trimpsuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
