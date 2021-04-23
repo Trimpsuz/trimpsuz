@@ -1,19 +1,16 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋    </h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trimpsuz&count_private=true&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=trimpsuz&theme=juicyfresh)
+<br />
 
-<!--
-**Trimpsuz/trimpsuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=trimpsuz&theme=juicyfresh" /></a>
+</p>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<div>
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=trimpsuz&count_private=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trimpsuz&layout=compact&theme=radical&langs_count=15" />
+</div>
+</p>
