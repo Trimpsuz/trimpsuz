@@ -17,3 +17,8 @@
 <img src="https://profile-counter.glitch.me/Trimpsuz/count.svg" />
 </h1>
 </p>
+<p align="center">
+  <h1 align="center">Visitor count since 2021<br>
+  <img src="https://profile-counter.glitch.me/Trimpsuz/count.svg" />
+  </h1>
+</p>
