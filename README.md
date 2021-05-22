@@ -18,4 +18,6 @@
 <br />
 
 <h1 align="center">Visitors in 2021</h1>
+<div  align="center">
 <img align="center" src="https://profile-counter.glitch.me/Trimpsuz/count.svg" />
+</div>
