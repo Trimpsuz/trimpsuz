@@ -13,9 +13,6 @@
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=trimpsuz&count_private=true&theme=radical" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trimpsuz&layout=compact&theme=radical&langs_count=15" />
 </div>
-<h1 align="center">Visitor count since 2021<br>
-<img src="https://profile-counter.glitch.me/Trimpsuz/count.svg" />
-</h1>
 </p>
 <p align="center">
   <h1 align="center">Visitor count since 2021<br>
