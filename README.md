@@ -9,7 +9,7 @@
 <br />
 
 <p align="center">
-<div>
+<div align="center">
 <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=trimpsuz&count_private=true&theme=radical" />
 </div>
 </p>
