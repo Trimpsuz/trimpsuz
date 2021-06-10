@@ -11,6 +11,7 @@
 <p align="center">
 <div>
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=trimpsuz&count_private=true&theme=radical" />
+<br />
 </div>
 </p>
 
