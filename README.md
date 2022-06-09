@@ -3,7 +3,9 @@
 <br />
 
 <p align="center">
+<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=trimpsuz&theme=juicyfresh&margin-w=15&margin-h=15&column=7" /></a>
+</div>
 </p>
 
 <br />
