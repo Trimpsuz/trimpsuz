@@ -1,20 +1,16 @@
-<h1 align="center"> Hi there 👋    </h1>
+<h1 align="center"> Hi there 👋</h1>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Trimpsuz&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&sideLabels=D3D3D3&currStreakLabel=D3D3D3&sideNums=D3D3D3&currStreakNum=D3D3D3&fire=D3D3D3&border=D3D3D3&ring=D3D3D3&stroke=D3D3D3&dates=D3D3D3" />
 
 <br />
 
-<p align="center">
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=trimpsuz&theme=juicyfresh&margin-w=15&margin-h=15&column=7" /></a>
-</div>
-</p>
+<img style="margin-top:4px" height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=trimpsuz&count_private=true&theme=dark&hide_border=true" />
 
 <br />
 
-<p align="center">
-<div align="center">
-<img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=trimpsuz&count_private=true&theme=radical" />
-</div>
-</p>
+<img style="margin-top:10px" src="https://github-readme-stats-mixu2021.vercel.app/api/top-langs?username=Trimpsuz&count_private=true&layout=compact&theme=github_dark&hide_border=true&text_color=D3D3D3&bg_color=000000" />
+
+<br />
 
 <br />
 
