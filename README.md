@@ -12,7 +12,7 @@
 
 <br />
 
-<img src="https://github-readme-testaustime.vercel.app/api/testaustime?username=Trimpsuz&count_private=true&layout=compact&theme=github_dark&hide_border=true&text_color=D3D3D3&bg_color=00000" />
+<img src="https://github-readme-testaustime.vercel.app/api/testaustime?username=Trimpsuz&count_private=true&layout=compact&theme=github_dark&hide_border=true&text_color=D3D3D3&bg_color=000000" />
 
 <br />
 
