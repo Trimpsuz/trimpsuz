@@ -8,7 +8,11 @@
 
 <br />
 
-<img src="https://github-readme-stats-mixu2021.vercel.app/api/top-langs?username=Trimpsuz&count_private=true&layout=compact&theme=github_dark&hide_border=true&text_color=D3D3D3&bg_color=000000" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Trimpsuz&count_private=true&layout=compact&theme=github_dark&hide_border=true&text_color=D3D3D3&bg_color=000000" />
+
+<br />
+
+<img src="https://github-readme-testaustime.vercel.app/api/testaustime?username=Trimpsuz&count_private=true&layout=compact&theme=github_dark&hide_border=true&text_color=D3D3D3&bg_color=00000" />
 
 <br />
 
