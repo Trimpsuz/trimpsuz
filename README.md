@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋</h1>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Trimpsuz&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&sideLabels=D3D3D3&currStreakLabel=D3D3D3&sideNums=D3D3D3&currStreakNum=D3D3D3&fire=D3D3D3&border=D3D3D3&ring=D3D3D3&stroke=D3D3D3&dates=D3D3D3" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Trimpsuz&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&background=000000&currStreakLabel=D3D3D3&sideLabels=D3D3D3&sideNums=D3D3D3&currStreakNum=D3D3D3&border=D3D3D3&stroke=D3D3D3&dates=D3D3D3" />
 
 <br />
 
